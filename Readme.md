@@ -45,7 +45,9 @@ http://localhost:8080/swagger-ui.html
 ## 2- Run Test from Image Docker Hub :
 
 *docker pull jfvadez/jfvtest-w2m-docker-img
+
 *docker run -p 8080:8080 jfvadez/jfvtest-w2m-docker-img
+
 
 ## 3- Credentials :
 
