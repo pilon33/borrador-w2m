@@ -20,6 +20,9 @@
 
 http://localhost:8080/swagger-ui.html
 
+![image](https://user-images.githubusercontent.com/12847173/114443594-3f11b900-9ba4-11eb-9d87-382d3722bbb8.png)
+
+
 
 ### POST request to `/super-heroes/create
 * Example: curl -X POST "http://localhost:8080/super-heroes/create" -H  "accept: */*" -H  "Content-Type: application/json" -d "{\"id\":1,\"name\":\"clark ken\",\"namePower\":\"homnbre hierro\",\"superName\":\"superman\",\"profession\":\"periodista\",\"worldNamebBorn\":\"marte\",\"age\":20,\"canFly\":true}"
@@ -43,10 +46,14 @@ http://localhost:8080/swagger-ui.html
 
 
 ## 2- Run Test from Image Docker Hub :
-
+  
 * docker pull jfvadez/jfvtest-w2m-docker-img
 
 * docker run -p 8080:8080 jfvadez/jfvtest-w2m-docker-img
+
+
+![image](https://user-images.githubusercontent.com/12847173/114443779-7a13ec80-9ba4-11eb-86d3-7ecc1523de21.png)
+
 
 
 ## 3- Credentials :
