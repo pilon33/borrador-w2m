@@ -47,7 +47,7 @@ http://localhost:8080/swagger-ui.html
 *docker pull jfvadez/jfvtest-w2m-docker-img
 *docker run -p 8080:8080 jfvadez/jfvtest-w2m-docker-img
 
-### Credentials :
+## 3- Credentials :
 
 
 ### Authentication --> /jfvtest-w2m/src/main/resources/application.properties
