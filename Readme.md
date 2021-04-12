@@ -1,5 +1,5 @@
 
-## W2M - Hiberus : Spring boot , Maven , Java 8 , Flyway, H2,Exception Handling, Spring Security , Spring JPA , Swagger ,Prometheus, Docker,Lombok ,Junit.
+## W2M - Hiberus : Spring boot , Maven , Java 8 , Flyway, H2,Exception Handling, Spring Security , Spring JPA,Spring Cache , Swagger ,Prometheus, Docker,Lombok ,Junit.
 
 ### Sr Developer José Francisco valdez 
  Linkedin https://www.linkedin.com/in/jose-francisco-valdez-282a1b1a/
