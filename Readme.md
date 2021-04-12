@@ -50,7 +50,7 @@ http://localhost:8080/swagger-ui.html
 ### Credentials :
 
 
-* Authentication --> /jfvtest-w2m/src/main/resources/application.properties
+### Authentication --> /jfvtest-w2m/src/main/resources/application.properties
 
 * username=user@user.com
 
@@ -58,11 +58,12 @@ http://localhost:8080/swagger-ui.html
 
 
 
-* H2 --> /h2-console 
+### H2 --> /h2-console 
 
 * username=sa
 
 * password=sa
 
 
-* script bd --> /jfvtest-w2m/src/main/resources/db/migration
+### script bd --> /jfvtest-w2m/src/main/resources/db/migration
+
